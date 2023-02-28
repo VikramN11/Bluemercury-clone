@@ -1,5 +1,9 @@
 # overconfident-giants-5053
 
+<p>
+Bluemercury is a ecommerce website and a leading luxury beauty retailer offering the best cosmetics, skin care, makeup, perfume, hair, and bath and body.
+</p>
+
 
 ## Tech Stack
 
